@@ -1,7 +1,5 @@
 ![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20there%20👋&fontSize=40&fontColor=ffffff)
 
-# Hi there 👋,
-
 🚀 Senior Full-Stack Developer | AI Enthusiast | React.js Nerd
 
 
