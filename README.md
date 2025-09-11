@@ -1,5 +1,7 @@
 ![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20there%20👋&fontSize=40&fontColor=ffffff)
 
+![Snake animation](https://github.com/lamebrowndev/lamebrowndev/blob/output/snake.svg)
+
 ## 👨‍💻 About Me
 - 🚀 Senior Full-Stack Developer (React, Next.js, Node.js, AI/ML)
 - 🌱 Currently exploring **AI + Business Intelligence systems**
@@ -40,7 +42,7 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [AI Publishing Platform](#) | Next.js, Supabase, PostgreSQL | Automated publishing system with CRON scheduling & multi-auth login |
+| [AI Publishing Platform](https:) | Next.js, Supabase, PostgreSQL | Automated publishing system with CRON scheduling & multi-auth login |
 | [AI Business Intelligence](#) | React, Firebase, LangChain | AI dashboards visualizing 100+ KPIs for executives |
 | [QR Profile Medallions](#) | Shopify, React, Node.js | QR-powered digital profiles linked to physical medallions |
 
