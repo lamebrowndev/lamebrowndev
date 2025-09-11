@@ -56,13 +56,6 @@ AWS · Azure · Vercel · Firebase · GitHub Actions · CI/CD Pipelines · Rabbi
 
 ---
 
-## 📊 GitHub Stats
-
-![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamebrowndev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamebrowndev&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
