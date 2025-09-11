@@ -18,12 +18,12 @@ With experience across **React, Next.js, Node.js, Python, Django, and ASP.NET**,
 Outside of code, I’m passionate about problem-solving, knowledge-sharing, and building tools that empower people to work smarter.  
 
 ## 📚 Currently Learning
-- 🤖 **Machine Learning & Deep Learning** — exploring models, optimization, and real-world applications  
-- 🧠 **Artificial Intelligence** — knowledge representation, reasoning, and intelligent systems  
-- 📊 **Data Science & Big Data Analytics** — turning large datasets into actionable insights  
-- ☁️ **Cloud Computing & Distributed Systems** — scaling applications with AWS & modern architectures  
-- 🔐 **Information Security** — fundamentals of secure software and systems  
-- 🛠 **Advanced Algorithms & Optimization** — strengthening problem-solving and efficiency skills  
+- 🤖 **Machine Learning & Deep Learning**: exploring models, optimization, and real-world applications  
+- 🧠 **Artificial Intelligence**: knowledge representation, reasoning, and intelligent systems  
+- 📊 **Data Science & Big Data Analytics**: turning large datasets into actionable insights  
+- ☁️ **Cloud Computing & Distributed Systems**: scaling applications with AWS & modern architectures  
+- 🔐 **Information Security**: fundamentals of secure software and systems  
+- 🛠 **Advanced Algorithms & Optimization**: strengthening problem-solving and efficiency skills  
 
 ## 🛠 Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
