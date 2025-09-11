@@ -2,6 +2,9 @@
 
 🚀 Senior Full-Stack Developer | AI Enthusiast | React.js Nerd
 
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Salman%20Ahmed%20🚀&fontSize=40&fontColor=ffffff)
+
+
 I’m a passionate developer who loves designing end-to-end systems that are fast, reliable, and delightful to use. From crafting sleek frontends to building robust backends and deploying on the cloud — I thrive across the stack.
 
 ---
