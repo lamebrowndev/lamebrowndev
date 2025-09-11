@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Salman%20Ahmed%20🚀&fontSize=40&fontColor=ffffff)
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20there%20👋&fontSize=40&fontColor=ffffff)
 
 # Hi there 👋,
 
