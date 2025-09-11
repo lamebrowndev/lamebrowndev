@@ -2,6 +2,8 @@
 
 ![Snake animation](https://github.com/lamebrowndev/lamebrowndev/blob/output/snake.svg)
 
+---
+
 ## 👨‍💻 About Me
 
 I’m a **Senior Full-Stack Developer** who loves turning complex ideas into simple, elegant software.  
@@ -15,8 +17,6 @@ With experience across **React, Next.js, Node.js, Python, Django, and ASP.NET**,
 
 Outside of code, I’m passionate about problem-solving, knowledge-sharing, and building tools that empower people to work smarter.  
 
----
-
 ## 📚 Currently Learning
 - 🤖 **Machine Learning & Deep Learning** — exploring models, optimization, and real-world applications  
 - 🧠 **Artificial Intelligence** — knowledge representation, reasoning, and intelligent systems  
@@ -24,8 +24,6 @@ Outside of code, I’m passionate about problem-solving, knowledge-sharing, and 
 - ☁️ **Cloud Computing & Distributed Systems** — scaling applications with AWS & modern architectures  
 - 🔐 **Information Security** — fundamentals of secure software and systems  
 - 🛠 **Advanced Algorithms & Optimization** — strengthening problem-solving and efficiency skills  
-
----
 
 ## 🛠 Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -48,10 +46,8 @@ Outside of code, I’m passionate about problem-solving, knowledge-sharing, and 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
----
-
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
 
 ---
 
