@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Salman Ahmed (aka **lamebrowndev**)
+# Hi there 👋,
 
 🚀 Senior Full-Stack Developer | AI Enthusiast | Builder of Scalable Web Apps  
 
