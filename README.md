@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-🚀 Senior Full-Stack Developer | AI Enthusiast | Builder of Scalable Web Apps  
+🚀 Senior Full-Stack Developer | AI Enthusiast | React.js Nerd
 
 I’m a passionate developer who loves designing end-to-end systems that are fast, reliable, and delightful to use. From crafting sleek frontends to building robust backends and deploying on the cloud — I thrive across the stack.
 
@@ -12,7 +12,7 @@ I’m a passionate developer who loves designing end-to-end systems that are fas
 TypeScript · JavaScript (ES6) · Python · Ruby · C#
 
 **Frontend**  
-React · Next.js · Angular · Vue.js · Tailwind CSS · Bootstrap · HTML · CSS
+React · Next.js · Angular · Tailwind CSS · Bootstrap · HTML · CSS
 
 **Backend**  
 Node.js · Express.js · Django · ASP.NET Core
