@@ -1,6 +1,4 @@
 ![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20there%20👋&fontSize=40&fontColor=ffffff)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2F81F7&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning+🚀)](https://git.io/typing-svg)
-
 
 ![Snake animation](https://github.com/lamebrowndev/lamebrowndev/blob/output/snake.svg)
 
