@@ -47,7 +47,7 @@ Outside of code, I’m passionate about problem-solving, knowledge-sharing, and 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-salman-ahmed/)
 
 ---
 
