@@ -45,6 +45,10 @@ Outside of code, I’m passionate about problem-solving, knowledge-sharing, and 
 
 ---
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ⭐️ *"Building the future one commit at a time."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer)
