@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Salman**, a computer science graduate and software engineer with a strong interest in building **high-quality systems**, understanding **how things work at a deeper level**, and exploring problems across the full spectrum of computing—from **algorithms and systems design** to **intelligent software and user-centered experiences**.
+I'm **Salman**, a computer science graduate and software engineer with a strong interest in building **high-quality systems**, understanding **how things work at a deeper level**, and exploring problems across the full spectrum of computing,from **algorithms and systems design** to **intelligent software and user-centered experiences**.
 
 My background spans full-stack engineering, applied AI, distributed systems, and scalable backend development. Over time, I’ve grown passionate about **research-oriented problem solving**, especially in areas that combine theory, systems, and real-world applications.
 
@@ -38,7 +38,7 @@ I enjoy studying and experimenting across multiple domains of CS:
 - 📐 **Core Computer Science**  
   algorithms, data structures, automata theory, computational thinking  
 
-I love approaching problems from multiple angles—**theoretical, practical, and experimental.**
+I love approaching problems from multiple angles,**theoretical, practical, and experimental.**
 
 ---
 
