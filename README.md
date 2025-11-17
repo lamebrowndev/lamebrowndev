@@ -6,63 +6,72 @@
 
 ## 👨‍💻 About Me
 
-I’m **Salman**, a developer with a strong background in full-stack engineering and an increasing focus on **Artificial Intelligence, Machine Learning, and Information Retrieval**. I enjoy building intelligent systems that combine practical engineering with modern AI techniques — especially **LLMs, RAG pipelines, semantic search, and data-driven automation**.
+I'm **Salman**, a computer science graduate and software engineer with a strong interest in building **high-quality systems**, understanding **how things work at a deeper level**, and exploring problems across the full spectrum of computing—from **algorithms and systems design** to **intelligent software and user-centered experiences**.
 
-- 🤖 **AI/IR Focus**: LLM applications, retrieval-augmented generation, embeddings, ranking, semantic search.  
-- 🧩 **Engineering Strength**: scalable backend systems, distributed processing, real-time dashboards, end-to-end product development.  
-- 🔍 **Research Interests**: large language models, neural retrieval, explainable recommendation, generative AI, and efficient information access.  
-- 🎯 **Long-term goal**: contribute to advanced AI/IR systems that enable more intelligent, contextual, and human-centered information retrieval.
+My background spans full-stack engineering, applied AI, distributed systems, and scalable backend development. Over time, I’ve grown passionate about **research-oriented problem solving**, especially in areas that combine theory, systems, and real-world applications.
 
-Outside development, I enjoy exploring research papers, experimenting with LLMs, and studying systems that bridge theory and real-world applications.
+### 🌍 What I Value
+- Building things that are **efficient, robust, and meaningful**  
+- Understanding computing from **first principles**  
+- Learning continuously and exploring different branches of computer science  
+- Working on problems where **engineering meets research**
 
----
-
-## 📚 Currently Exploring
-
-- 🔎 **Retrieval-Augmented Generation (RAG)** and hybrid retrievers  
-- 🧠 **Large Language Models** — reasoning, prompting, embeddings  
-- 📑 **Information Retrieval** — ranking, evaluation (MRR, NDCG), interaction modeling  
-- 🧮 **Deep Learning Fundamentals**  
-- 🏗️ **Scalable backend architectures** for AI-powered systems  
-- 📦 **Vector Databases** (FAISS, Pinecone, Supabase pgvector)  
-- 🛠 **Model evaluation, optimization, and prompt engineering**
+### 🎯 Long-Term Vision
+To contribute to **advanced computing systems**, intelligent applications, and impactful research spanning software, systems, AI, networks, and human-technology interaction.
 
 ---
 
-## 🛠 Tech Stack
+## 📚 Areas I’m Exploring
 
-### Languages  
+I enjoy studying and experimenting across multiple domains of CS:
+
+- 🖥️ **Systems & Software Engineering**  
+  Operating systems, distributed systems, reliability, performance, and system design  
+- 🤖 **Artificial Intelligence & Machine Learning**  
+  LLMs, generative models, semantic reasoning, automation  
+- ⚙️ **High-Performance Computing (HPC)**  
+  parallelism, optimization, GPU acceleration, scalable computation  
+- 🧠 **Human-Computer Interaction (HCI)**  
+  user experience, interaction design, intelligent interfaces  
+- 🌐 **Computer Networks**  
+  protocols, real-time communication, large-scale architectures  
+- 📐 **Core Computer Science**  
+  algorithms, data structures, automata theory, computational thinking  
+
+I love approaching problems from multiple angles—**theoretical, practical, and experimental.**
+
+---
+
+## 🔧 Tech Stack
+
+### Programming Languages  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 
-### Frontend  
+### Frameworks & Tools  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-
-### Backend & Systems  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 
 ### Databases & Infrastructure  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-
-### Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+
+### Learning & Research Tools  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![FAISS](https://img.shields.io/badge/-FAISS-2D2D2D?style=for-the-badge)
 
 ---
 
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-salman-ahmed/)
-- 🌐 [Portfolio (optional if you want one)]()
 
 ---
 
