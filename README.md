@@ -6,39 +6,41 @@
 
 ## 👨‍💻 About Me
 
-I'm **Salman**, a computer science graduate and software engineer with a strong interest in building **high-quality systems**, understanding **how things work at a deeper level**, and exploring problems across the full spectrum of computing,from **algorithms and systems design** to **intelligent software and user-centered experiences**.
+I'm **Salman**, a software engineer with a focus on **modern web development**, building fast, reliable, and scalable applications across the stack.  
+I care deeply about **clean architecture**, **performance**, and creating user experiences that feel smooth, intentional, and well-engineered.
 
-My background spans full-stack engineering, applied AI, distributed systems, and scalable backend development. Over time, I’ve grown passionate about **research-oriented problem solving**, especially in areas that combine theory, systems, and real-world applications.
+While my core expertise is in **frontend and backend web engineering**, I also incorporate **AI tools and automation** into my workflow to prototype ideas faster, optimize development, and enhance product capabilities where useful.
 
 ### 🌍 What I Value
-- Building things that are **efficient, robust, and meaningful**  
-- Understanding computing from **first principles**  
-- Learning continuously and exploring different branches of computer science  
-- Working on problems where **engineering meets research**
+- Writing code that is **maintainable, predictable, and efficient**  
+- Building systems with **clarity in architecture**  
+- Delivering polished user experiences and scalable backends  
+- Using AI and cloud platforms to **work smarter and ship faster**  
+- Continuous learning and long-term craftsmanship  
 
-### 🎯 Long-Term Vision
-To contribute to **advanced computing systems**, intelligent applications, and impactful research spanning software, systems, AI, networks, and human-technology interaction.
+### 🎯 Long-Term Direction
+To keep growing as a **top-tier web engineer**, building dependable systems, scalable products, and thoughtful user interfaces — while staying grounded in strong engineering principles.
 
 ---
 
-## 📚 Areas I’m Exploring
+## 📚 What I Work On
 
-I enjoy studying and experimenting across multiple domains of CS:
+- 🧩 **Full-Stack Web Engineering**  
+  React, Next.js, TypeScript, Node.js, API Design, state management  
 
-- 🖥️ **Systems & Software Engineering**  
-  Operating systems, distributed systems, reliability, performance, and system design  
-- 🤖 **Artificial Intelligence & Machine Learning**  
-  LLMs, generative models, semantic reasoning, automation  
-- ⚙️ **High-Performance Computing (HPC)**  
-  parallelism, optimization, GPU acceleration, scalable computation  
-- 🧠 **Human-Computer Interaction (HCI)**  
-  user experience, interaction design, intelligent interfaces  
-- 🌐 **Computer Networks**  
-  protocols, real-time communication, large-scale architectures  
-- 📐 **Core Computer Science**  
-  algorithms, data structures, automata theory, computational thinking  
+- ⚙️ **Backend & Infrastructure**  
+  Express.js, Django, PostgreSQL, MongoDB, Supabase  
 
-I love approaching problems from multiple angles,**theoretical, practical, and experimental.**
+- 🚀 **Cloud & Deployment**  
+  AWS, Vercel, Firebase, GitHub Actions (CI/CD)  
+
+- ⚡ **Performance & System Design**  
+  caching, rendering optimization, modular architecture, real-time systems  
+
+- 🤖 **AI in My Workflow**  
+  LLMs for ideation & refactoring, embeddings (FAISS), automation, rapid prototyping  
+
+My work is grounded in real-world engineering — balancing performance, usability, and clean code.
 
 ---
 
@@ -48,7 +50,6 @@ I love approaching problems from multiple angles,**theoretical, practical, and e
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 
 ### Frameworks & Tools  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
@@ -56,13 +57,17 @@ I love approaching problems from multiple angles,**theoretical, practical, and e
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 
-### Databases & Infrastructure  
+### Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 
-### Learning & Research Tools  
+### Cloud & Deployments  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+
+### AI & Research Tools (Used In Workflow)  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/-FAISS-2D2D2D?style=for-the-badge)
