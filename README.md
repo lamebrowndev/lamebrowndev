@@ -1,6 +1,6 @@
 <div align="center">
 
-![M. Salman Ahmed — Agentic Systems Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=240&section=header&text=SALMAN%20AHMED&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AGENTIC%20SYSTEMS%20ENGINEER&descSize=16&descAlignY=55&animation=fadeIn)
+![Salman Ahmed — Agentic Systems Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=240&section=header&text=SALMAN%20AHMED&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AGENTIC%20SYSTEMS%20ENGINEER&descSize=16&descAlignY=55&animation=fadeIn)
 
 ### Agents that act. Systems you can trust.
 
