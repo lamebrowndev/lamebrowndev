@@ -1,17 +1,17 @@
 <div align="center">
 
-![Salman Ahmed — Agentic Systems Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=240&section=header&text=SALMAN%20AHMED&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AGENTIC%20SYSTEMS%20ENGINEER&descSize=16&descAlignY=55&animation=fadeIn)
+![M. Salman Ahmed — AI Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=240&section=header&text=M.%20SALMAN%20AHMED&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20ENGINEER&descSize=16&descAlignY=55&animation=fadeIn)
 
 ### Agents that act. Systems you can trust.
 
 I build LLM applications with reliable tool use, grounded answers,<br />
 and the evaluation infrastructure to know when they work.
 
-**Python · Agent orchestration · Hybrid RAG · Evaluation**
+**LLM Applications · RAG · AI Agents · Python**
 
 <a href="https://www.linkedin.com/in/muhammad-salman-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://x.com/lamebrowndev"><img src="https://img.shields.io/badge/Follow%20on%20X-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
-<a href="mailto:xdcoder3289@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Salman" /></a>
+<a href="mailto:xdcoder3289@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email M. Salman Ahmed" /></a>
 
 <sub>Islamabad, Pakistan &nbsp; / &nbsp; 4+ years in software engineering &nbsp; / &nbsp; 2+ years building LLM applications</sub>
 
@@ -25,7 +25,7 @@ and the evaluation infrastructure to know when they work.
 
 ## About
 
-I'm **Salman**, a software engineer focused on **agentic systems**. I connect language models to tools, data, and real workflows—with explicit permissions, human approval, and observable execution.
+I'm **M. Salman Ahmed**, an **AI Engineer** with a background in software engineering. I build **LLM applications, retrieval systems, and AI agents**. I connect language models to tools, data, and real workflows—with explicit permissions, human approval, and observable execution.
 
 My foundation is in frontend and API engineering. Today, I build across the agent lifecycle: orchestration, retrieval, tool integration, evaluation, and delivery. I pay close attention to the details that make a system dependable: how it handles a failed tool call, whose documents it can retrieve, when it asks for approval, and what each successful task costs.
 
