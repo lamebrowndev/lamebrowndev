@@ -1,87 +1,159 @@
-![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20there%20👋&fontSize=40&fontColor=ffffff)
+<div align="center">
 
-![Snake animation](https://github.com/lamebrowndev/lamebrowndev/blob/output/snake.svg)
+![M. Salman Ahmed — Agentic Systems Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=240&section=header&text=SALMAN%20AHMED&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AGENTIC%20SYSTEMS%20ENGINEER&descSize=16&descAlignY=55&animation=fadeIn)
 
----
+### Agents that act. Systems you can trust.
 
-## 👨‍💻 About Me
+I build LLM applications with reliable tool use, grounded answers,<br />
+and the evaluation infrastructure to know when they work.
 
-I'm **Salman**, a software engineer with a focus on **modern web development**, building fast, reliable, and scalable applications across the stack.  
-I care deeply about **clean architecture**, **performance**, and creating user experiences that feel smooth, intentional, and well-engineered.
+**Python · Agent orchestration · Hybrid RAG · Evaluation**
 
-While my core expertise is in **frontend and backend web engineering**, I also incorporate **AI tools and automation** into my workflow to prototype ideas faster, optimize development, and enhance product capabilities where useful.
+<a href="https://www.linkedin.com/in/muhammad-salman-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://x.com/lamebrowndev"><img src="https://img.shields.io/badge/Follow%20on%20X-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
+<a href="mailto:xdcoder3289@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Salman" /></a>
 
-### 🌍 What I Value
-- Writing code that is **maintainable, predictable, and efficient**  
-- Building systems with **clarity in architecture**  
-- Delivering polished user experiences and scalable backends  
-- Using AI and cloud platforms to **work smarter and ship faster**  
-- Continuous learning and long-term craftsmanship  
+<sub>Islamabad, Pakistan &nbsp; / &nbsp; 4+ years in software engineering &nbsp; / &nbsp; 2+ years building LLM applications</sub>
 
-### 🎯 Long-Term Direction
-To keep growing as a **top-tier web engineer**, building dependable systems, scalable products, and thoughtful user interfaces — while staying grounded in strong engineering principles.
+<br /><br />
 
----
+[About](#about) &nbsp; · &nbsp; [Impact](#impact) &nbsp; · &nbsp; [Selected Work](#selected-work) &nbsp; · &nbsp; [Toolkit](#toolkit)
 
-## 📚 What I Work On
-
-- 🧩 **Full-Stack Web Engineering**  
-  React, Next.js, TypeScript, Node.js, API Design, state management  
-
-- ⚙️ **Backend & Infrastructure**  
-  Express.js, Django, PostgreSQL, MongoDB, Supabase  
-
-- 🚀 **Cloud & Deployment**  
-  AWS, Vercel, Firebase, GitHub Actions (CI/CD)  
-
-- ⚡ **Performance & System Design**  
-  caching, rendering optimization, modular architecture, real-time systems  
-
-- 🤖 **AI in My Workflow**  
-  LLMs for ideation & refactoring, embeddings (FAISS), automation, rapid prototyping  
-
-My work is grounded in real-world engineering — balancing performance, usability, and clean code.
+</div>
 
 ---
 
-## 🔧 Tech Stack
+## About
 
-### Programming Languages  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
+I'm **Salman**, a software engineer focused on **agentic systems**. I connect language models to tools, data, and real workflows—with explicit permissions, human approval, and observable execution.
 
-### Frameworks & Tools  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+My foundation is in frontend and API engineering. Today, I build across the agent lifecycle: orchestration, retrieval, tool integration, evaluation, and delivery. I pay close attention to the details that make a system dependable: how it handles a failed tool call, whose documents it can retrieve, when it asks for approval, and what each successful task costs.
 
-### Databases  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+**My approach:** make the behavior measurable, the permissions clear, and the failures recoverable.
 
-### Cloud & Deployments  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+## Impact
 
-### AI & Research Tools (Used In Workflow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![FAISS](https://img.shields.io/badge/-FAISS-2D2D2D?style=for-the-badge)
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>$0.18 → $0.11</h3>
+<strong>Cost per successful task</strong>
+<br /><sub>More efficient agent execution</sub>
+</td>
+<td align="center" width="33%">
+<h3>12% → 2%</h3>
+<strong>Stalled runs</strong>
+<br /><sub>Measured across 500 tests</sub>
+</td>
+<td align="center" width="33%">
+<h3>8.4s → 5.9s</h3>
+<strong>p95 latency</strong>
+<br /><sub>Measured across 500 replays</sub>
+</td>
+</tr>
+</table>
+
+At **Felic.io**, my work also includes hybrid retrieval over **24,000 documents**, reaching **0.86 Recall@5** on 200 queries, and integrating **6 MCP/API tools** with scoped access, input validation, and human approval for writes.
+
+## Selected Work
+
+### 01 / Citizen Service Workflow Agent
+
+**A prototype for completing service tasks through controlled tool use.**
+
+Built with Python, LangGraph, FastAPI, and MCP. Reached **96% tool-call accuracy across 600 labeled calls**, with a median of **4 steps per task**. Compared single-agent and multi-agent designs on 150 service tasks and selected single agents at equal task success.
+
+`Agent orchestration` `Tool use` `Human approval` `Architecture evaluation`
+
+### 02 / Urdu-English Policy Assistant
+
+**A bilingual retrieval prototype with answers people can trace to their sources.**
+
+Combined pgvector and BM25 for hybrid retrieval, with cited answers, document-level permissions, and audit logs. Achieved **90% human-scored answer accuracy across 200 balanced Urdu and English policy questions**.
+
+`Hybrid RAG` `Multilingual retrieval` `Citations` `Access control`
+
+### 03 / Agent Safety & Evaluation Harness
+
+**A repeatable way to measure agent behavior before release.**
+
+Replayed **500 tasks in CI** to track task success, tool accuracy, execution steps, latency, and cost. Blocked **114 of 120 prompt-injection attempts**, documented the failures, and added targeted regression tests.
+
+`Evaluation` `Prompt-injection testing` `Tracing` `Regression testing`
+
+## Toolkit
+
+**Languages & applications**
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=38BDF8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=38BDF8)
+
+**Agents & retrieval**
+
+`LangGraph` · `LangChain` · `OpenAI SDK` · `AWS Bedrock` · `MCP`  
+`pgvector` · `BM25` · `Embeddings` · `Hybrid search` · `Access-aware retrieval`
+
+**Evaluation & delivery**
+
+![LangSmith](https://img.shields.io/badge/LangSmith-0F172A?style=flat-square&logo=langchain&logoColor=38BDF8)
+![pytest](https://img.shields.io/badge/pytest-0F172A?style=flat-square&logo=pytest&logoColor=38BDF8)
+![Jest](https://img.shields.io/badge/Jest-0F172A?style=flat-square&logo=jest&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=38BDF8)
+![AWS](https://img.shields.io/badge/AWS-0F172A?style=flat-square&logoColor=38BDF8)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=flat-square&logo=githubactions&logoColor=38BDF8)
+
+<br />
+
+<details>
+<summary><strong>How I engineer dependable agents</strong></summary>
+
+<br />
+
+- **Bound execution.** Set step limits, timeouts, context budgets, and recovery paths.
+- **Scope access.** Use least privilege, document-level permissions, and isolated user memory.
+- **Keep people in control.** Require human approval for writes and retain audit trails.
+- **Evaluate changes.** Version prompts, tool schemas, and structured outputs; replay representative tasks in CI.
+- **Inspect failures.** Trace runs, document failure cases, and turn them into regression tests.
+- **Justify complexity.** Compare architectures against task success, latency, and cost.
+
+</details>
+
+<details>
+<summary><strong>Background & education</strong></summary>
+
+<br />
+
+**Agentic Systems Engineer · Felic.io**  
+March 2023–Present · Remote, United States
+
+**Front End Engineer · Advergic.com**  
+November 2021–March 2023 · Islamabad  
+Built React dashboards and TypeScript API integrations, reduced dashboard render time by 19%, and added 60 Jest tests for critical flows and API failures.
+
+**MS in Computer Science, AI Track**  
+Ghulam Ishaq Khan Institute of Engineering Sciences
+
+**BS in Computer Science**  
+VU Pakistan, Islamabad
+
+</details>
 
 ---
 
-## 🔗 Connect with Me
+<div align="center">
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-salman-ahmed/)
+### Let's build something dependable.
 
----
+Interested in agent workflows, retrieval systems, or evaluating LLM applications?<br />
+**[Get in touch](mailto:xdcoder3289@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/muhammad-salman-ahmed/)** · **[Find me on X](https://x.com/lamebrowndev)**
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+<br />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer)
+![Contribution snake animation](https://raw.githubusercontent.com/lamebrowndev/lamebrowndev/output/snake.svg)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=110&section=footer)
+
+</div>
