@@ -1,6 +1,6 @@
 <div align="center">
 
-![M. Salman Ahmed — AI Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=240&section=header&text=M.%20SALMAN%20AHMED&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20ENGINEER&descSize=16&descAlignY=55&animation=fadeIn)
+![M. Salman Ahmed | AI Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:06B6D4&height=240&section=header&text=M.%20SALMAN%20AHMED&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20ENGINEER&descSize=16&descAlignY=55&animation=fadeIn)
 
 ### Agents that act. Systems you can trust.
 
@@ -25,7 +25,7 @@ and the evaluation infrastructure to know when they work.
 
 ## About
 
-I'm **M. Salman Ahmed**, an **AI Engineer** with a background in software engineering. I build **LLM applications, retrieval systems, and AI agents**. I connect language models to tools, data, and real workflows—with explicit permissions, human approval, and observable execution.
+I'm **M. Salman Ahmed**, an **AI Engineer** with a background in software engineering. I build **LLM applications, retrieval systems, and AI agents**. I connect language models to tools, data, and real workflows with explicit permissions, human approval, and observable execution.
 
 My foundation is in frontend and API engineering. Today, I build across the agent lifecycle: orchestration, retrieval, tool integration, evaluation, and delivery. I pay close attention to the details that make a system dependable: how it handles a failed tool call, whose documents it can retrieve, when it asks for approval, and what each successful task costs.
 
@@ -57,7 +57,7 @@ At **Felic.io**, my work also includes hybrid retrieval over **24,000 documents*
 
 ## Selected Work
 
-### 01 / Citizen Service Workflow Agent
+### 01 / [Citizen Service Workflow Agent](https://github.com/lamebrowndev/citizen-service-workflow-agent)
 
 **A prototype for completing service tasks through controlled tool use.**
 
@@ -65,21 +65,13 @@ Built with Python, LangGraph, FastAPI, and MCP. Reached **96% tool-call accuracy
 
 `Agent orchestration` `Tool use` `Human approval` `Architecture evaluation`
 
-### 02 / Urdu-English Policy Assistant
+### 02 / [Urdu-English Policy Assistant](https://github.com/lamebrowndev/urdu-english-policy-assistant)
 
 **A bilingual retrieval prototype with answers people can trace to their sources.**
 
 Combined pgvector and BM25 for hybrid retrieval, with cited answers, document-level permissions, and audit logs. Achieved **90% human-scored answer accuracy across 200 balanced Urdu and English policy questions**.
 
 `Hybrid RAG` `Multilingual retrieval` `Citations` `Access control`
-
-### 03 / Agent Safety & Evaluation Harness
-
-**A repeatable way to measure agent behavior before release.**
-
-Replayed **500 tasks in CI** to track task success, tool accuracy, execution steps, latency, and cost. Blocked **114 of 120 prompt-injection attempts**, documented the failures, and added targeted regression tests.
-
-`Evaluation` `Prompt-injection testing` `Tracing` `Regression testing`
 
 ## Toolkit
 
@@ -127,10 +119,10 @@ Replayed **500 tasks in CI** to track task success, tool accuracy, execution ste
 <br />
 
 **Agentic Systems Engineer · Felic.io**  
-March 2023–Present · Remote, United States
+March 2023 to Present · Remote, United States
 
 **Front End Engineer · Advergic.com**  
-November 2021–March 2023 · Islamabad  
+November 2021 to March 2023 · Islamabad  
 Built React dashboards and TypeScript API integrations, reduced dashboard render time by 19%, and added 60 Jest tests for critical flows and API failures.
 
 **MS in Computer Science, AI Track**  
